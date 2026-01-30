@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "realtime-dashboards-voor-growth",
+    "title": "Realtime dashboards voor growth teams",
+    "excerpt": "Koppel KPIs direct aan content en stuur bij op basis van live data, zonder handmatig werk.",
+    "content": "## Waarom realtime nu standaard is\nRealtime dashboards geven teams een voorsprong. Je ziet meteen welke content presteert en welke signalen aandacht vragen.\n\n## Architectuur in drie lagen\n- Databronnen die elke 5 minuten synchroniseren\n- Orchestratie via n8n voor validatie en enrichments\n- Presentatie in dashboards die direct in je workflow staan\n\n### Signalen die je direct wilt zien\n**Engagement**, organische groei en conversie per artikel. Als een metric daalt, wil je een automatische trigger om bij te sturen.\n\n## Impact op SEO en content\nRealtime inzicht betekent dat je sneller optimaliseert. Denk aan interne links, snippets en content updates. Meer hierover lees je in onze [SEO strategie](https://example.com).",
+    "category": "Data Dashboards",
+    "tags": ["dashboards", "kpi", "growth"],
+    "coverImage": "/images/posts/dashboard.svg",
+    "author": {
+      "name": "Sophie van Dijk",
+      "role": "Head of Analytics",
+      "avatar": "/avatars/sophie.svg"
+    },
+    "createdAt": "2026-01-05T09:00:00.000Z",
+    "updatedAt": "2026-01-22T10:30:00.000Z",
+    "liveUpdate": false
+  },
+  {
+    "slug": "seo-automatisering-met-n8n",
+    "title": "SEO automatisering met n8n",
+    "excerpt": "Automatiseer checks, metadata en publicaties zodat elk artikel direct voldoet aan technische SEO.",
+    "content": "## Waarom n8n het verschil maakt\nMet n8n bouw je workflow blocks die precies doen wat je nodig hebt: van content validatie tot publish triggers.\n\n## Slimme SEO checks\n- Titel, meta description en slug validatie\n- Structured data injectie per artikel\n- Live alerts bij technische fouten\n\n### Publiceer zonder stress\nKoppel je CMS of JSON file aan n8n en laat updates automatisch live gaan. Je team blijft in control, maar de operatie draait door.\n\n## Resultaat\nMinder handmatige checks en een consistente kwaliteit in elke publicatie.",
+    "category": "Automatisering",
+    "tags": ["n8n", "seo", "workflow"],
+    "coverImage": "/images/posts/automation.svg",
+    "author": {
+      "name": "Ravi Meijer",
+      "role": "Automation Architect",
+      "avatar": "/avatars/ravi.svg"
+    },
+    "createdAt": "2026-01-10T11:15:00.000Z",
+    "updatedAt": "2026-01-25T14:40:00.000Z",
+    "liveUpdate": false
+  },
+  {
+    "slug": "content-ops-orchestratie",
+    "title": "Content Ops orchestratie voor schaal",
+    "excerpt": "Consistente publicatie, duidelijke governance en realtime feedback voor elk team.",
+    "content": "## Maak van content een systeem\nEen volwassen content ops model voorkomt ad-hoc werk. Alles draait om duidelijke afspraken en tooling.\n\n## Workflow blueprint\n- Intake via gestandaardiseerde templates\n- Review rondes met automatische approvals\n- Distributie naar alle kanalen tegelijk\n\n### Governance zonder vertraging\nDoor duidelijke metadata en audit trails kun je sneller beslissen, zonder risico.\n\n## Wat dit oplevert\nMeer publicaties per maand, zonder kwaliteitsverlies. Teams focussen op strategie in plaats van beheer.",
+    "category": "Content Ops",
+    "tags": ["content", "governance", "ops"],
+    "coverImage": "/images/posts/content-ops.svg",
+    "author": {
+      "name": "Elise Vermeer",
+      "role": "Content Operations Lead",
+      "avatar": "/avatars/elise.svg"
+    },
+    "createdAt": "2026-01-12T08:30:00.000Z",
+    "updatedAt": "2026-01-24T09:15:00.000Z",
+    "liveUpdate": false
+  },
+  {
+    "slug": "live-update-kpi-monitoring",
+    "title": "Live update: KPI monitoring voor executive teams",
+    "excerpt": "Zodra een KPI verschuift, publiceert het systeem automatisch een update met nieuwe context.",
+    "content": "## Live updates als productfeature\nVoor executive teams is timing cruciaal. Een live update badge toont dat content actief wordt bijgewerkt.\n\n## Wanneer activeer je live updates\n- Grote shifts in performance data\n- Nieuwe inzichten uit dashboards\n- Veranderingen in markt of concurrentie\n\n### Transparantie naar stakeholders\nZorg dat updates duidelijk worden gecommuniceerd. Voeg een korte changelog toe in elk artikel.\n\n## Praktische tips\nGebruik een vast update ritme en automatiseer notificaties via n8n, zodat stakeholders altijd op de hoogte zijn.",
+    "category": "Live Monitoring",
+    "tags": ["live", "kpi", "updates"],
+    "coverImage": "/images/posts/live-update.svg",
+    "author": {
+      "name": "Thomas Bakker",
+      "role": "Strategic Analyst",
+      "avatar": "/avatars/thomas.svg"
+    },
+    "createdAt": "2026-01-14T07:45:00.000Z",
+    "updatedAt": "2026-01-29T16:05:00.000Z",
+    "liveUpdate": true
+  }
+]
